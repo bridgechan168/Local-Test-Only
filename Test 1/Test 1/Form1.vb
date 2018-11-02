@@ -20,9 +20,7 @@ Public Class Form1
         'Catch ex As Exception
         '    MessageBox.Show(ex.Message)
         'End Try
-        while true
 
-        End While
 
         Dim dbConn As SqlConnection
         Dim cmd As SqlCommand
